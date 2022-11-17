@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>tets</name>
+   <name>test</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c77ed025-fb2f-448f-8158-376e80f21089</testCaseGuid>
+   <testCaseGuid>f1b08e0d-6528-41b8-9cb8-0cdad25ce9db</testCaseGuid>
 </TestCaseEntity>
