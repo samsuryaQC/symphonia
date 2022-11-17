@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO_Claim_Pickup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ada3697-607e-4b84-9be8-f6c6fc144516</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f9af45b-7aa2-4f10-acdc-c9683ada7507</id>
+      <masked>false</masked>
+      <name>waybill</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bb01061-61dc-4602-a30d-552a5767afc7</id>
+      <masked>false</masked>
+      <name>nik</name>
+   </variable>
+</TestCaseEntity>
